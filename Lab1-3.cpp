@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : Lab1-3.cpp
-// Author      : Your Name
+// Author      : Nathaniel Madore
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
+// Copyright   : Copyright © 2021 SNHU COCE
 // Description : Lab 1-3 Up to Speed in C++
 //============================================================================
 
